@@ -1,0 +1,24 @@
+# Data files
+*.jpg
+*.png
+*.jpeg
+data/
+models/
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large model files
+*.pth
+*.bin
